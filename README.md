@@ -12,5 +12,7 @@ __Version Hightlights__
 * New embedded feature to allow clients open support requests from the application.
 * Streamline visualization and configuration of Projects -> Kbs -> Permissions.
 
+_Current Status_ : Development in progress, , functional changes might still occur.
+
 - - -
 For further info visit [GxTend website](http://gxtend.in-prove.com)
