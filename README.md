@@ -16,6 +16,5 @@ __Current Status__
 
 Development in progress, functional changes might still occur.
 
-
 - - -
 For further info visit [GxTend website](http://gxtend.in-prove.com)
